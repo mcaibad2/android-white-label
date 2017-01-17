@@ -4,7 +4,7 @@ android {
     compileSdkVersion 25
     buildToolsVersion "25.0.1"
     defaultConfig {
-        applicationId "wizzo.mbc.net"
+        applicationId "com.accolade.client"
         minSdkVersion 22
         targetSdkVersion 25
         versionCode 1
@@ -19,7 +19,7 @@ android {
     }
     productFlavors {
         wappier {
-            applicationId 'com.wappier.client'
+            applicationId 'com.blizzard.client'
         }
     }
 }

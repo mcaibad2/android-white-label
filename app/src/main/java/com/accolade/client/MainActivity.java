@@ -1,4 +1,4 @@
-package wizzo.mbc.net;
+package com.accolade.client;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
